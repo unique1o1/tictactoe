@@ -5,5 +5,5 @@ Just complie the program using your favorite C compiler
 	> Install GCC compiler
 	> go into the downloaded tictactoe directory 
 	> type the Commands:
-	# gcc tictactoe.c -o tictactoe
-	# ./tictactoe
+	'''# gcc tictactoe.c -o tictactoe
+	# ./tictactoe'''
